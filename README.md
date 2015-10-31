@@ -1,19 +1,6 @@
-# Learning
+# www.learnelixir.tv - Exercises
 
-**TODO: Add description**
+My solutions for the exercises on www.learnelixir.tv 
 
-## Installation
+If you see better ways to solve them please send a pull request. I am happy to learn!
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add learning to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:learning, "~> 0.0.1"}]
-        end
-
-  2. Ensure learning is started before your application:
-
-        def application do
-          [applications: [:learning]]
-        end

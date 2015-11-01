@@ -1,3 +1,5 @@
 language: elixir
 elixir:
     - 1.1.1
+notifications:
+    slack: frontrunnerio:UeKBQtFyS7RRQkq94l9wznrX
